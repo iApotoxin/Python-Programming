@@ -1,3 +1,4 @@
 # Python-Programming
 
-Reference : Programming Expert with Python (ผศ.สุชาติ คุ้มมะณี)
+Reference Book : 
+   - Programming Expert with Python (ผศ.สุชาติ คุ้มมะณี)
